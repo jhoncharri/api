@@ -6,3 +6,5 @@ keras
 PyJWT
 python-dotenv
 pydantic
+email-validator
+
