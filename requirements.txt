@@ -4,3 +4,5 @@ mysql-connector-python
 python-multipart==0.0.10
 keras
 PyJWT
+python-dotenv
+pydantic
